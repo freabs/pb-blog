@@ -1,0 +1,14 @@
+import {PostInterface} from "@/types";
+import React from "react";
+import {formatDate} from "@/lib/date";
+
+export default function ListItem({post}: {post: PostInterface}) {
+    return (
+        <a key={post.id} className={"flex flex-col space-y-1 mb-3"} href={`/blog/${post.id}`}>
+            <div className={"w-full flex flex-col md:flex-row space-x-0 md:space-x-2"}>
+                <p className={"text-neutral-600 dark:text-neutral-400 w-[100px] tabular-nums"}>{formatDate(post.date)}</p>
+                <p className={"text-neutral-900 dark:text-neutral-100 tracking-tight hover:underline"}>{post.title}</p>
+            </div>
+        </a>
+    )
+}

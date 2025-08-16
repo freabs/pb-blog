@@ -1,4 +1,4 @@
-import "./globals.css"
+import "../globals.css"
 import {PostInterface} from "@/types";
 import {getSortedPostsData} from "@/lib/posts";
 import React from "react";
@@ -10,10 +10,7 @@ export default function Home() {
 
     return (
         <div className={"flex flex-col"}>
-            <section className={"mb-8 text-2xl font-semibold tracking-tighter"}>PB-Blog</section>
-            <section className={"mb-8"}>
-                In questa sezione posso inserire delle informazioni generali sugli scopi del blog. È da considerare la prima descrizione del blog con cui il lettore entra in contatto blabla, grazie alla quale può subito farsi un'idea dei contenuti e delle funzioni di questo blog blabla.
-            </section>
+            <section className={"mb-8 text-2xl font-semibold tracking-tighter"}>Blog</section>
             <section>
                 <ul>
                     {PostData.map((post: PostInterface, i) => {
