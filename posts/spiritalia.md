@@ -23,6 +23,7 @@ Se uno adunque prendendo un leggerissimo vaso che abbi angusta bocca e, ponendol
 
 Sia il *sifone torto*, cioè il canale 'ABC', la cui gamba 'AB' sia nel vaso 'DE' pieno d'acqua; e la superficie dell'acqua sia fino alla linea diritta 'FG', e la gamba 'AB' del sifone torto si empia d'acqua a dirittura di 'FG', cioè la parte di esso posta fra 'AH': ma la parte di 'HBC' sia piena d'aria. Se dunque dalla parte di 'C' tiraremo l'aria che vi è dentro con la bocca, se ne verrà l'acqua ancora dopo lei, percioché come prima avemo detto, non può essere un luogo al tutto vacuo. E se fia la parte di 'C' dirimpetto ad esso 'FG', il sifone benché empito d'acqua non per quello correrà; ma starassi così pieno 
 
+![vaso 1](/vaso-1.png)
 
 
 #### Dei vasi che non si versano se non sono pieni (XII)
@@ -30,3 +31,5 @@ Sia il *sifone torto*, cioè il canale 'ABC', la cui gamba 'AB' sia nel vaso 'DE
 Si trovano certi vasi, che se non sono pieni non si versano; ma se si empano, versasi tutta l'acqua che vi è dentro; questo è il modo di farli.
 
 Sia un vaso non coperto 'ABCD', per il fondo del quale si trasmetta o il diabete spiritale 'EFLH', overo il sifone torto 'GHK'. Pertanto empito il vaso 'ABCD' di modo che sopravanzi l'acqua sopra il diabete, avviene che per quello ella si versi, finché il vaso 'ABCD' resti al tutto voto: purché il diabete habbi principio vicino al fondo del vaso, per modo che non si rimanga se non solo il passo per minuto all'acqua.
+
+![vaso 2](/vaso-2.png)
